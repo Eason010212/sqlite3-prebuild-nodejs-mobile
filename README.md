@@ -1,3 +1,10 @@
+# sqlite3-prebuild-nodejs-mobile
+See release.
+
+
+
+
+
 # nodejs-mobile-prebuilds-template
 
 Template repository for building and publishing [NodeJS Mobile](https://github.com/nodejs-mobile/nodejs-mobile) prebuilds for a specific module
